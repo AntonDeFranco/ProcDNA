@@ -1,1 +1,1 @@
-Please clink on the ProcDNA code file to see the code used for this project.
+Please clink on the code file to see the notebook with accompanying explanations used for this project.
